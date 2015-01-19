@@ -1,0 +1,12 @@
+.block {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin: 1px;
+    
+    border: 1px solid hsla(0,0%,0%,.5);
+}
+
+.touched {
+    background-color: blue;
+}
